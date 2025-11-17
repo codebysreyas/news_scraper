@@ -14,3 +14,4 @@ This Python script scrapes top news headlines from BBC News using:
 ## Files included
 - news_scraper.py → Main script
 - headlines.txt → Scraped output
+
